@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Solve the Riddle</title>
+
+        <!-- Adding stylesheet relative to the "/public" folder -->
+        <link rel="stylesheet" href="/style/main.css" />
+    </head>
+
+    <body>
+        <header>
+            <div class="heading">
+                <h1>RiddleVerse</h1>
+                <div>A universe full of riddles</div>
+            </div>
+        </header>
+
+        <main>
+            <div class="card">
+                <div class="riddle">
+                    <p>
+                        <%= riddle %> 🤔
+                    </p>
+                </div>
+                <div class="answer">
+                    <p class="hover-text">Hover to see answer</p>
+                    <p class="actual-answer">
+                        🧩 <%= answer %>
+                    </p>
+                </div>
+            </div>
+        </main>
+
+        <footer>
+            <p><small>Made by Avi</small></p>
+            <p><small>Copyright © 2025. All Rights Reserved</small></p>
+        </footer>
+    </body>
+</html>
