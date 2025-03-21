@@ -9,6 +9,9 @@
 - **ejs** – used to create templates and then rendering them into HTML
 - **axios** - used for sending request to Secrets API and receiving response from it
 
+### Working of the project
+Every time you refresh the website, it shows a new riddle to solve. Hover over the riddle to see its answer.
+
 ### How to run the project
 -	First open the terminal and change the directory to the current working directory in which you have your project using **cd command**.
   
