@@ -23,7 +23,7 @@ Every time you refresh the website, it shows a new riddle to solve. Hover over t
 
     ![image](https://github.com/user-attachments/assets/373d897c-5588-422a-8a5b-2cbac5bb49ee)
 
-    OR (you can also use the below command if you have **nodemon** installed in your compter)
+    OR (you can also use the below command if you have **nodemon** installed in your computer)
 
     ![image](https://github.com/user-attachments/assets/28c5d7d3-4b62-4755-bb78-b61bdfd6dfca)
   
